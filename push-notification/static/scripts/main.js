@@ -130,7 +130,7 @@ function sendPushMessage() {
 
   const subscriptionJson = document.querySelector('.js-subscription-json');
   const subscriptionString = subscriptionJson.textContent;
-  const dataString = "Hello World!!!@LeonDawn666";
+  const dataString = "Hello World!!!@LeonDawn";
 
   if (subscriptionString.length === 0) {
     return Promise.reject(new Error('Please provide a push subscription.'));

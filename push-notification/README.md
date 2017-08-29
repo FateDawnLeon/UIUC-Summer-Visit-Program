@@ -5,3 +5,7 @@ The core function of notification push is wrapped in the following code snippet 
 
 To learn more details about google's subscription and notification function, please refer to:
 https://developers.google.com/web/fundamentals/engage-and-retain/push-notifications/
+
+To run the website, simply input following command in the console
+
+    $ node app.js
